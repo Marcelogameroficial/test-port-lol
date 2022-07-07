@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-400
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1086,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "away",
+			"indices": [],
+			"name": " leaves"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stewie-blackandwhite",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stewie",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		211,
+		124
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

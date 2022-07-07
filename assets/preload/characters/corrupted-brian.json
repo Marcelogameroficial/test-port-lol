@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-250
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-250
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/brian-corrupted",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "corrupted-brian",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		55,
+		55
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

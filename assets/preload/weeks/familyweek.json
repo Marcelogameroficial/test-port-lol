@@ -1,0 +1,41 @@
+{
+	"storyName": "He's our family guy!",
+	"difficulties": "corrupted",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Rooten Family",
+			"corrupted-brian",
+			[
+				86,
+				122,
+				145
+			]
+		],
+		[
+			"Rooten Family",
+			"corrupted-brian",
+			[
+				6,
+				6,
+				6
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "FamilyWeek",
+	"hiddenUntilUnlocked": false
+}

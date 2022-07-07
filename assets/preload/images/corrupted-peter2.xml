@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="corrupted-peter2.png">
+<SubTexture name=" idle0000" x="0" y="0" width="458" height="525" frameX="-219" frameY="-194" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0001" x="458" y="0" width="442" height="539" frameX="-223" frameY="-180" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0002" x="900" y="0" width="442" height="546" frameX="-220" frameY="-171" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0003" x="1342" y="0" width="448" height="549" frameX="-213" frameY="-165" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0004" x="1790" y="0" width="478" height="555" frameX="-192" frameY="-157" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0005" x="2268" y="0" width="503" height="548" frameX="-181" frameY="-166" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0006" x="0" y="555" width="483" height="549" frameX="-171" frameY="-165" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0007" x="483" y="555" width="493" height="549" frameX="-166" frameY="-165" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0008" x="976" y="555" width="493" height="548" frameX="-165" frameY="-165" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" idle0009" x="1469" y="555" width="399" height="547" frameX="-255" frameY="-165" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" down0000" x="1868" y="555" width="455" height="479" frameX="-252" frameY="-233" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" down0001" x="2323" y="555" width="466" height="477" frameX="-255" frameY="-235" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" down0002" x="0" y="1104" width="461" height="466" frameX="-254" frameY="-246" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" down0003" x="461" y="1104" width="463" height="472" frameX="-252" frameY="-240" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" down0004" x="924" y="1104" width="457" height="475" frameX="-255" frameY="-237" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0000" x="1381" y="1104" width="554" height="548" frameX="-100" frameY="-164" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0001" x="1935" y="1104" width="577" height="539" frameX="-106" frameY="-173" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0002" x="2512" y="1104" width="589" height="551" frameX="-103" frameY="-161" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0003" x="0" y="1655" width="570" height="546" frameX="-84" frameY="-166" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0004" x="570" y="1655" width="556" height="541" frameX="-105" frameY="-171" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0005" x="1126" y="1655" width="566" height="535" frameX="-97" frameY="-177" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0006" x="1692" y="1655" width="597" height="546" frameX="-98" frameY="-166" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" left0007" x="2289" y="1655" width="526" height="553" frameX="-128" frameY="-159" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0000" x="2815" y="1655" width="651" height="491" frameX="-257" frameY="-221" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0001" x="0" y="2208" width="640" height="489" frameX="-252" frameY="-223" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0002" x="640" y="2208" width="682" height="489" frameX="-255" frameY="-223" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0003" x="1322" y="2208" width="680" height="489" frameX="-251" frameY="-223" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0004" x="2002" y="2208" width="674" height="478" frameX="-252" frameY="-234" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0005" x="2676" y="2208" width="651" height="491" frameX="-250" frameY="-221" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0006" x="3327" y="2208" width="641" height="478" frameX="-261" frameY="-234" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" right0007" x="0" y="2699" width="679" height="486" frameX="-252" frameY="-226" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" up0000" x="679" y="2699" width="511" height="659" frameX="-197" frameY="-53" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" up0001" x="1190" y="2699" width="433" height="643" frameX="-239" frameY="-69" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" up0002" x="1623" y="2699" width="459" height="635" frameX="-236" frameY="-77" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" up0003" x="2082" y="2699" width="496" height="645" frameX="-220" frameY="-67" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" up0004" x="2578" y="2699" width="461" height="640" frameX="-240" frameY="-72" frameWidth="1020" frameHeight="740" />
+<SubTexture name=" spit out0000" x="0" y="3358" width="433" height="557" frameX="-295" frameY="-561" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0001" x="433" y="3358" width="522" height="545" frameX="-206" frameY="-570" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0002" x="955" y="3358" width="423" height="582" frameX="-305" frameY="-533" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0003" x="1378" y="3358" width="556" height="630" frameX="-335" frameY="-535" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0004" x="1934" y="3358" width="858" height="537" frameX="-335" frameY="-578" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0005" x="2792" y="3358" width="1083" height="431" frameX="-335" frameY="-684" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0006" x="0" y="3988" width="1243" height="381" frameX="-335" frameY="-734" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0007" x="1243" y="3988" width="1312" height="404" frameX="-335" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0008" x="2555" y="3988" width="1200" height="404" frameX="-447" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0009" x="3755" y="3988" width="1101" height="404" frameX="-546" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0010" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0011" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0012" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0013" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0014" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0015" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0016" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0017" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0018" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0019" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0020" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0021" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0022" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+<SubTexture name=" spit out0023" x="4856" y="3988" width="638" height="404" frameX="-1009" frameY="-764" frameWidth="1892" frameHeight="1192" />
+</TextureAtlas>

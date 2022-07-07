@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				0,
+				-400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "shocked",
+			"loop": false,
+			"name": " shocked"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stewie-scared",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stewie",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		211,
+		124
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.50000000000001,
+	"scale": 1
+}

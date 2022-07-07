@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				156
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				274
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": " right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lois-blackandwhite",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lois",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		147,
+		113
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

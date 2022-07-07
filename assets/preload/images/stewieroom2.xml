@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stewieroom2.png">
+<SubTexture name=" one0000" x="0" y="0" width="3192" height="1692" frameX="0" frameY="0" frameWidth="3192" frameHeight="1692" />
+</TextureAtlas>
